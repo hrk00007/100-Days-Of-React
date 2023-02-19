@@ -1,0 +1,12 @@
+.landing-page {
+  background: white url(./components/images/bg-image.jpg) no-repeat scroll;
+  background-position: center;
+  background-size: cover;
+
+  height: 100vh;
+}
+
+.wrapper {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
